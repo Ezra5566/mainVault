@@ -19,7 +19,7 @@ What problem are we solving? What value are we creating?
 
 ## Stakeholders
 - **Primary:** 
-- **Secondary:**
+- **Secondary:** Owner Mwenda 
 - **Users/Customers:**
 - **Reviewers/Approvers:**
 
