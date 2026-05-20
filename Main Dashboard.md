@@ -21,6 +21,7 @@ This is your primary knowledge vault organized using the PARA method:
 - [[07-Cybersecurity|🔒 Cybersecurity]]
 - [[08-Daily|📅 Daily Notes]]
 - [[09-Knowledge|💡 Knowledge & Interdisciplinary]]
+- 🇨🇳[[chinese]]
 
 ## Daily Actions
 ### Morning Routine
