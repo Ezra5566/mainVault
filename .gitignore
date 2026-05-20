@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Obsidian generated files
+.obsidian/
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Build / virtual environment files
+__pycache__/
+env/
+venv/
+node_modules/
+*.asset
+*.zip
