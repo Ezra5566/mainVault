@@ -432,3 +432,7 @@ You can listen to music while doing homework.
 ---
 
 *Keep adding new cards as you learn!*
+## Related Links
+- [[00-Inbox/Ideas]]
+- [[02-Areas/Professional Development]]
+- External: [Project Management Best Practices](https://example.com)

@@ -6,17 +6,17 @@ Print this and keep it with you!
 
 ## Essential Phrases for Daily Conversations
 
-| Chinese | Pinyin | English | When to Use |
-|---------|--------|---------|-------------|
-| 你好 | nǐ hǎo | Hello | Greeting anyone |
-| 再见 | zàijiàn | Goodbye | Leaving |
-| 谢谢 | xièxie | Thank you | After help/gifts |
-| 不客气 | bú kèqi | You're welcome | Responding to thanks |
-| 对不起 | duìbuqǐ | Sorry | Making an apology |
-| 没关系 | méi guānxi | It's okay | Responding to apology |
-| 请 | qǐng | Please | Making requests |
-| 请问 | qǐngwèn | May I ask... | Politely starting a question |
-| 打扰了 | dǎrǎole | Excuse me | Getting attention |
+| Chinese | Pinyin     | English        | When to Use                  |     |
+| ------- | ---------- | -------------- | ---------------------------- | --- |
+| 你好      | nǐ hǎo     | Hello          | Greeting anyone              |     |
+| 再见      | zàijiàn    | Goodbye        | Leaving                      |     |
+| 谢谢      | xièxie     | Thank you      | After help/gifts             |     |
+| 不客气     | bú kèqi    | You're welcome | Responding to thanks         |     |
+| 对不起     | duìbuqǐ    | Sorry          | Making an apology            |     |
+| 没关系     | méi guānxi | It's okay      | Responding to apology        |     |
+| 请       | qǐng       | Please         | Making requests              |     |
+| 请问      | qǐngwèn    | May I ask...   | Politely starting a question |     |
+| 打扰了     | dǎrǎole    | Excuse me      | Getting attention            |     |
 
 ---
 
