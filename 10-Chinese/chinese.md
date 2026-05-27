@@ -389,3 +389,9 @@ Meaning: _______________
 ---
 
 *Add your own cards below!*
+
+
+## Related Links
+- [[00-Inbox/Ideas]]
+- [[02-Areas/Professional Development]]
+- External: [Project Management Best Practices](https://example.com)
