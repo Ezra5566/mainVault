@@ -235,6 +235,6 @@ These are ideas that naturally translate between fields:
 - [[05-AI-Research/AI Fundamentals#Interdisciplinary Applications of AI]]
 - [[06-Math/Mathematics for ML#Applications in Other Fields]]
 - [[07-Cybersecurity/Cybersecurity Fundamentals#Interdisciplinary Aspects]]
-- [[08-Daily/Daily Habits#Learning Across Disciplines]]
+- [[Daily_Habits#Learning Across Disciplines]]
 
 *Last updated: May 14, 2026*

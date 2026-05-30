@@ -436,3 +436,4 @@ You can listen to music while doing homework.
 - [[00-Inbox/Ideas]]
 - [[02-Areas/Professional Development]]
 - External: [Project Management Best Practices](https://example.com)
+- [[chinese]]

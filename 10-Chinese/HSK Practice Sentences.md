@@ -126,3 +126,6 @@
 100. 他的发明改变了整个世界。 (tā de fāmíng gǎibiàn le zhěnggè shìjiè) – His invention changed the whole world.
 
 *Tip: Practice each sentence by reading the Chinese, then the pinyin, then the English translation. Try writing the sentence on grid paper, then say it aloud, and finally use the English meaning to create your own sentence.*
+
+## Related Links
+- [[chinese]]

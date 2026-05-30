@@ -121,7 +121,7 @@ Completed redesign of company website using React and Tailwind CSS. Improved loa
 
 ## Related Notes
 - [[00-Inbox/Inbox Guidelines]]
-- [[01-Projects/Project Management Template]]
+- [[Project Management Template]]
 - [[02-Areas/Areas Overview]]
 - [[03-Resources/Knowledge Management System]]
 

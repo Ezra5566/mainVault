@@ -48,3 +48,6 @@
 今天天气很好，jīn tiān tiān qì hěn hǎo，the weather is nice today.
 明天我去图书馆，míng tiān wǒ qù tú shū guǎn，I will go to the library tomorrow.
 祝你学习愉快，zhù nǐ xué xí yú kuài，wish you happy learning.
+
+## Related Links
+- [[chinese]]

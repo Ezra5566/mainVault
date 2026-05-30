@@ -124,3 +124,5 @@ don't eat
 ---
 
 *Practice these every day!*
+## Related Links
+- [[chinese]]

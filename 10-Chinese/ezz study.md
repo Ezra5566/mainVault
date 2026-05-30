@@ -364,3 +364,5 @@ The goal is:
 
 > “recognize reusable language patterns instantly.”
 
+## Related Links
+- [[chinese]]

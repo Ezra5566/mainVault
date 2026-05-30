@@ -118,7 +118,7 @@ The psychological finding that information is better retained when study session
 
 ## Related Resources
 - [[00-Inbox/Inbox Guidelines]]
-- [[01-Projects/Project Management Template]]
+- [[Project Management Template]]
 - [[04-Archive/Archive Principles]]
 - External: [How to Take Smart Notes](https://overleaf.com/read/)
 

@@ -27,7 +27,7 @@ This is your primary knowledge vault organized using the PARA method:
 ### Morning Routine
 1. Review [[00-Inbox|Inbox]]
 2. Check calendar and today's priorities
-3. Update [[08-Daily/Daily Note Template|Today's Note]]
+3. Update [[Daily Note Template|Today's Note]]
 
 ### Evening Routine
 1. Process inbox to zero
@@ -71,6 +71,7 @@ flowchart LR
   - [[05-AI-Research/AI Fundamentals]]
   - [[06-Math/Mathematics for ML]]
   - [[09-Knowledge/Interdisciplinary Connections]]
+  - [[HSK 1 Sentences]]
 
 ## Vault Statistics
 *Note: Update these periodically*
@@ -107,11 +108,11 @@ flowchart LR
 - Vault structure optimization
 
 ## Quick Links to Templates
-- [[01-Projects/Project Management Template]]
+- [[Project Management Template]]
 - [[02-Areas/Areas Overview]]
 - [[03-Resources/Knowledge Management System]]
 - [[04-Archive/Archive Principles]]
-- [[08-Daily/Daily Note Template]]
+- [[Daily Note Template]]
 - [[09-Knowledge/Interdisciplinary Connections]]
 
 ## Inspiration & Motivation

@@ -3037,3 +3037,5 @@ The mathematical concepts presented here are interconnected and build upon each 
 - [[03-Resources/Knowledge Management System]]
 - [[07-Cybersecurity/Cryptography Math]]
 - [[09-Knowledge/Mathematical Foundations of CS]]
+- [[algoroad.canvas]]
+- [[Basic Calculus.pdf#page=39&selection=256,1,257,1|Basic Calculus, page 39]]
