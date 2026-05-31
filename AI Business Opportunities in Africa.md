@@ -3,13 +3,13 @@
 > **Untapped niches** where AI can create measurable economic impact.
 
 ## High‑Potential Segments (2026‑2031)
-| Segment | Pain Point | AI Solution Idea | Estimated TAM (US$) |
-|---------|------------|------------------|----------------------|
-| **Agriculture** | Low yield forecasting | Crop‑health analytics via satellite + ML | 2.3 B |
-| **Logistics** | Inefficient last‑mile routing | Dynamic routing optimizer for boda‑boda | 1.1 B |
-| **FinTech** | Credit scoring for unbanked | Alternative credit model using mobile data | 4.5 B |
-| **Health** | Diagnostic shortages | Symptom checker + triage chatbot (Swahili) | 3.2 B |
-| **Education** | Personalized learning gaps | Adaptive quiz generator for Kenya’s curriculum | 0.9 B |
+| Segment         | Pain Point                    | AI Solution Idea                               | Estimated TAM (US$) |
+| --------------- | ----------------------------- | ---------------------------------------------- | ------------------- |
+| **Agriculture** | Low yield forecasting         | Crop‑health analytics via satellite + ML       | 2.3 B               |
+| **Logistics**   | Inefficient last‑mile routing | Dynamic routing optimizer for boda‑boda        | 1.1 B               |
+| **FinTech**     | Credit scoring for unbanked   | Alternative credit model using mobile data     | 4.5 B               |
+| **Health**      | Diagnostic shortages          | Symptom checker + triage chatbot (Swahili)     | 3.2 B               |
+| **Education**   | Personalized learning gaps    | Adaptive quiz generator for Kenya’s curriculum | 0.9 B               |
 
 ## Entry Strategies
 - **Partnerships** with local NGOs / telcos.  
