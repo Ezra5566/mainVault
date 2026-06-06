@@ -144,7 +144,7 @@ Breakdown:
 
 * 这 = this
 * 是 = is
-* 什么 = what
+* 什么 = what![[07DC0EAC-3989-4DF8-AB31-48C8CF9E546B.gif]]
 
 Learn whole chunks.
 
