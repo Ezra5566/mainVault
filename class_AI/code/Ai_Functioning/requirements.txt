@@ -1,0 +1,36 @@
+# Core data extraction and processing
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.30
+pandas==2.2.2
+pyarrow==16.1.0
+
+# Spark processing (PySpark)
+pyspark==3.5.1
+findspark==2.0.1
+
+# Machine learning and deep learning
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+transformers==4.41.0
+accelerate==0.31.0
+
+# Model serving
+fastapi==0.110.2
+uvicorn[standard]==0.23.1
+
+# UI
+streamlit==1.37.0
+python-dotenv==1.0.1
+requests==2.32.3
+
+# Utilities
+pydantic==2.7.1
+loguru==0.7.2
+colorlog==5.0.1
+tqdm==4.66.2
+jsonschema==4.22.0
+
+# Social API wrappers
+tweepy==4.15.0
+praw==7.7.0

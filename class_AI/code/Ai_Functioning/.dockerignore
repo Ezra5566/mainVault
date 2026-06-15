@@ -1,0 +1,14 @@
+# Exclude unnecessary files from Docker context
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.egg-info/
+dist/
+build/
+*.log
+.env
+*.sqlite3
+.idea/
+.vscode/

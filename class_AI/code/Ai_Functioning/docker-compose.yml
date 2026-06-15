@@ -1,0 +1,95 @@
+services:
+  # -------------------------------------------------
+  # PostgreSQL database service
+  # -------------------------------------------------
+  db:
+    image: postgres:15-alpine
+    container_name: ds_pipeline_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-pipeline_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-pipeline_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-pipeline_db}
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "${POSTGRES_USER:-pipeline_user}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # -------------------------------------------------
+  # Main application service (builds the pipeline image)
+  # -------------------------------------------------
+  pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ds_pipeline_app
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      # Override any missing env vars from .env with safe defaults
+      POSTGRES_USER: ${POSTGRES_USER:-pipeline_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-pipeline_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-pipeline_db}
+    volumes:
+      - .:/app                     # mount source code for live edits
+      - pg_data:/app/data/postgres   # share postgres volume if needed
+    ports:
+      - "8000:8000"   # FastAPI
+      - "8501:8501"   # Streamlit
+    # Default command shows help; override with `docker compose run pipeline <args>`
+    command: ["python", "-m", "run_pipeline", "--help"]
+    # USER is set in Dockerfile (non‑root appuser)
+
+  # -------------------------------------------------
+  # Optional: stream standalone UI (Streamlit) service
+  # -------------------------------------------------
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ds_streamlit_ui
+    restart: unless-stopped
+    depends_on:
+      - pipeline
+    env_file:
+      - .env
+    environment:
+      # Streamlit defaults to localhost:8501; we expose it via port mapping
+      STREAMLIT_PORT: "8501"
+    volumes:
+      - .:/app
+    ports:
+      - "8501:8501"
+    command: ["streamlit", "run", "ui/streamlit_app.py", "--server.port", "8501", "--server.address", "0.0.0.0"]
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ds_api
+    restart: unless-stopped
+    depends_on:
+      - db
+    env_file:
+      - .env
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-pipeline_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-pipeline_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-pipeline_db}
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"
+    command: ["uvicorn", "src.deploy.api:app", "--reload", "--host", "0.0.0.0", "--port", "8000"]
+
+volumes:
+  pg_data:

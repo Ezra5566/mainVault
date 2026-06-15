@@ -1,0 +1,28 @@
+# Configuration file for the data pipeline
+# Fill in your credentials and settings below
+
+database:
+  host: localhost
+  port: 5432
+  name: company_db
+  user: db_user
+  password: db_password
+
+social:
+  reddit:
+    client_id: reddit_client_id
+    client_secret: reddit_client_secret
+    user_agent: reddit_user_agent
+  twitter:
+    bearer_token: twitter_bearer_token
+
+spark:
+  master: local[
+    4
+  ]  # Change to cluster URL if needed
+  app_name: data_pipeline
+
+model:
+  num_classes: 2
+  hidden_dim: 128
+  dropout: 0.3
