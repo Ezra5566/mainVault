@@ -102,8 +102,7 @@ if st.checkbox("Auto‑refresh logs every 5 seconds"):
     while True:
         time.sleep(5)
         placeholder.empty()
-```
 
-This UI ties together the earlier scripts: it can launch the extract/ingest scripts, Spark job, trainer, and FastAPI server, while streaming logs back to the browser. Users can stop long‑running processes via the Streamlit UI or by interrupting the container.
+# This UI ties together the earlier scripts: it can launch the extract/ingest scripts, Spark job, trainer, and FastAPI server, while streaming logs back to the browser. Users can stop long_running processes via the Streamlit UI or by interrupting the container.
 
-Feel free to adjust titles, add more input fields (e.g., custom keywords, tweet counts), or extend the prediction widget with a feature‑upload component.
+#Feel free to adjust titles, add more input fields (e.g., custom keywords, tweet counts), or extend the prediction widget with a featureupload component.
