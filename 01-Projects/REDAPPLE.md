@@ -18,7 +18,7 @@ What problem are we solving? What value are we creating?
 - [ ] Qualitative outcome description
 
 ## Stakeholders
-- **Primary:** 
+- **Primary:** ezra Odyn [DEVELOPER] 
 - **Secondary:** Owner Mwenda 
 - **Users/Customers:**
 - **Reviewers/Approvers:**

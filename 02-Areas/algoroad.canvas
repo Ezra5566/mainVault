@@ -33,8 +33,6 @@
 		{"id":"b89a143d9b67db60","type":"text","text":"Hash Table","x":1349,"y":1040,"width":250,"height":60},
 		{"id":"f1c126fa5d0994a9","type":"text","text":"Queue","x":1349,"y":960,"width":250,"height":60},
 		{"id":"dda958f191ec5fe8","type":"text","text":"Stack","x":1349,"y":880,"width":250,"height":60},
-		{"id":"b0be57be6af8e8b4","type":"text","text":"Binary tree","x":1742,"y":1045,"width":250,"height":60},
-		{"id":"f981ce265998ecf3","type":"text","text":"Binary Search Tree BST","x":1742,"y":1120,"width":250,"height":60},
 		{"id":"aa96ca91024c069f","type":"text","text":"Brute Force","x":1319,"y":1320,"width":250,"height":60},
 		{"id":"da5db367865528aa","type":"text","text":"Greedy","x":1319,"y":1660,"width":250,"height":60},
 		{"id":"13bf7fe0adb1232f","type":"text","text":"Dynamic Programmng","x":1319,"y":1580,"width":250,"height":60},
@@ -44,7 +42,19 @@
 		{"id":"572ff2f6fda4369a","type":"text","text":"Routing","x":1220,"y":2078,"width":250,"height":60},
 		{"id":"91ee43c15f8903f7","type":"text","text":"Encryption","x":1220,"y":2240,"width":250,"height":60},
 		{"id":"db11d884f7c6c24b","type":"text","text":"Compression","x":1220,"y":2160,"width":250,"height":60},
-		{"id":"ae9c75ecf7e47138","type":"text","text":"Sorting Algorithms","x":1143,"y":120,"width":250,"height":60}
+		{"id":"ae9c75ecf7e47138","type":"text","text":"Sorting Algorithms","x":1143,"y":120,"width":250,"height":60},
+		{"id":"7537bab77cb8c3ed","x":-700,"y":-600,"width":391,"height":233,"color":"3","type":"text","text":"Need to add a particular language withb programming fundermentals\n1. Language syntax\n2. Control structure\n3. Pseudo code\n4. functions\n5. OOP Basics"},
+		{"id":"d9167f8c643f5538","x":786,"y":-584,"width":186,"height":224,"color":"3","type":"text","text":"COMMON RUNTIMES \n1. constant\n2. Logarithims\n3. linear\n4. Polynomial\n5. Exponential\n6. Factorial"},
+		{"id":"e04b14d90a7cbd25","x":1985,"y":238,"width":250,"height":60,"type":"text","text":"selection sort"},
+		{"id":"0d5aa66e622b2bd2","x":1987,"y":327,"width":250,"height":60,"type":"text","text":"heap sort"},
+		{"id":"b0be57be6af8e8b4","type":"text","text":"Binary tree","x":1835,"y":1040,"width":250,"height":60},
+		{"id":"b1a0b9b7b5b91d01","x":2085,"y":1220,"width":250,"height":60,"type":"text","text":"B- trees"},
+		{"id":"f981ce265998ecf3","type":"text","text":"Binary Search Tree BST","x":2020,"y":1120,"width":250,"height":60},
+		{"id":"246562889ba8bc9b","x":2210,"y":1320,"width":250,"height":50,"type":"text","text":"heap Sort"},
+		{"id":"37e5c973fdd87bed","x":2300,"y":1395,"width":200,"height":60,"type":"text","text":"tree-traversal"},
+		{"id":"c8a6ba9f80044b42","x":2569,"y":1350,"width":250,"height":60,"type":"text","text":"IN-order Traversal"},
+		{"id":"0c05b1996e3bd426","x":2570,"y":1416,"width":250,"height":60,"type":"text","text":"PRE-Order Traversal"},
+		{"id":"c3254c4dc6313ed3","x":2573,"y":1485,"width":250,"height":60,"type":"text","text":"POST-Order Traversal"}
 	],
 	"edges":[
 		{"id":"b9647fee3765cb62","fromNode":"2fe76205b4b0736d","fromSide":"right","toNode":"a3d0fd4d0c78e4a2","toSide":"left"},
@@ -91,6 +101,16 @@
 		{"id":"74ab7c0cb42c3856","fromNode":"0c9aa61e56e8be54","fromSide":"right","toNode":"91ee43c15f8903f7","toSide":"left"},
 		{"id":"ebe6bf6b78156903","fromNode":"ae9c75ecf7e47138","fromSide":"right","toNode":"87a94d1236c1e7e7","toSide":"left"},
 		{"id":"1a733f39d8d7e101","fromNode":"f981ce265998ecf3","fromSide":"right","toNode":"cd4cee1ab23b23f9","toSide":"bottom","color":"#242323"},
-		{"id":"c9bee662eafb5987","fromNode":"cf5559d162b55578","fromSide":"right","toNode":"7022681b3f9e4567","toSide":"right","color":"#393838"}
+		{"id":"c9bee662eafb5987","fromNode":"cf5559d162b55578","fromSide":"right","toNode":"7022681b3f9e4567","toSide":"right","color":"#393838"},
+		{"id":"4820030b6629eeca","fromNode":"2fe76205b4b0736d","fromSide":"top","toNode":"7537bab77cb8c3ed","toSide":"bottom"},
+		{"id":"c54e055557ec81f0","fromNode":"d4dbb3ef3a3328cc","fromSide":"top","toNode":"d9167f8c643f5538","toSide":"bottom"},
+		{"id":"2484c668e2800115","fromNode":"ae9c75ecf7e47138","fromSide":"right","toNode":"e04b14d90a7cbd25","toSide":"left"},
+		{"id":"a865b403d0862770","fromNode":"ae9c75ecf7e47138","fromSide":"right","toNode":"0d5aa66e622b2bd2","toSide":"left"},
+		{"id":"9db72e293574a344","fromNode":"f1e41f452652042b","fromSide":"right","toNode":"b1a0b9b7b5b91d01","toSide":"left"},
+		{"id":"fda00a4321a69f57","fromNode":"f1e41f452652042b","fromSide":"right","toNode":"246562889ba8bc9b","toSide":"left"},
+		{"id":"0f6b9135dd589820","fromNode":"f1e41f452652042b","fromSide":"right","toNode":"37e5c973fdd87bed","toSide":"left"},
+		{"id":"ca095053bfcfd02d","fromNode":"37e5c973fdd87bed","fromSide":"right","toNode":"c8a6ba9f80044b42","toSide":"left"},
+		{"id":"7b37d62e5f28b97a","fromNode":"37e5c973fdd87bed","fromSide":"right","toNode":"0c05b1996e3bd426","toSide":"left"},
+		{"id":"9793270d49b7a2bf","fromNode":"37e5c973fdd87bed","fromSide":"right","toNode":"c3254c4dc6313ed3","toSide":"left"}
 	]
 }
