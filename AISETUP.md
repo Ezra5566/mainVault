@@ -120,13 +120,13 @@ For isolation and portability, we recommend containerizing or sandboxing each ag
 
 Hermes supports multiple “terminal backends” (local shell, Docker, SSH, Singularity, cloud) for its tool executions. For example, you can configure Hermes to run all shell commands in an isolated Docker container (set `terminal.backend: docker` and `terminal.container_persistent: true` in `config.yaml`) or offload to a remote server over SSH. 
 
-| Approach       | Isolation            | Setup Complexity            | Overhead      | Use Cases                        |
-|----------------|----------------------|-----------------------------|---------------|----------------------------------|
-| **Host (no container)** | None (Pi/Hermes run as user) | Easy (no extra layers) | None           | Quick testing, local dev        |
-| **Docker**     | OS-level container  | Moderate (install Docker)  | Low–Moderate | Standard dev, reproducibility   |
-| **Gondolin (micro-VM)** | Process-level VM for tools | Higher (requires QEMU) | Moderate–High | Strong isolation, even offline  |
-| **OpenShell sandbox** | Policy-controlled sandbox | High (external service) | Low–Moderate | Managed sandbox policies        |
-| **Virtual Machine** | Full OS VM (Hypervisor) | High (VM setup) | High | Maximum isolation (e.g. untrusted code) |
+| Approach                | Isolation                    | Setup Complexity          | Overhead      | Use Cases                               |
+| ----------------------- | ---------------------------- | ------------------------- | ------------- | --------------------------------------- |
+| **Host (no container)** | None (Pi/Hermes run as user) | Easy (no extra layers)    | None          | Quick testing, local dev                |
+| **Docker**              | OS-level container           | Moderate (install Docker) | Low–Moderate  | Standard dev, reproducibility           |
+| **Gondolin (micro-VM)** | Process-level VM for tools   | Higher (requires QEMU)    | Moderate–High | Strong isolation, even offline          |
+| **OpenShell sandbox**   | Policy-controlled sandbox    | High (external service)   | Low–Moderate  | Managed sandbox policies                |
+| **Virtual Machine**     | Full OS VM (Hypervisor)      | High (VM setup)           | High          | Maximum isolation (e.g. untrusted code) |
 
 We recommend **Docker** or Pi’s **Gondolin extension** for routine isolation, as supported by Pi’s docs. For Hermes, using the Docker or SSH terminal backend provides similar isolation. Ensure any container has volumes for persistent data (e.g. Pi sessions, Hermes home) and environment variables for credentials. CI/CD pipelines can likewise use Docker images or containers to run Pi/Hermes commands reproducibly.
 
@@ -152,13 +152,13 @@ Automate Hermes backups with a script or cron job: schedule `hermes backup` to r
 
 **Comparison of backup tools:** 
 
-| Tool       | Type       | Cross-Platform | Encryption | Notes                    |
-|------------|------------|----------------|------------|--------------------------|
-| BorgBackup | Dedup backup repo | Linux/macOS (Windows via WSL) | Yes       | Efficient, but single-host repo |
-| Restic     | Dedup backup repo | Linux/macOS/Win | Yes       | Supports multi-host repo, easy |
-| Duplicity  | Encrypted (rsync-like) | All       | Yes       | Good for cloud targets      |
-| Arq        | Proprietary (GUI/CLI) | All      | Yes       | User-friendly GUI, costs    |
-| Rclone (copy) | File sync to cloud | All   | Yes (if configured) | Syncs to AWS/S3/etc |
+| Tool          | Type                   | Cross-Platform                | Encryption          | Notes                           |
+| ------------- | ---------------------- | ----------------------------- | ------------------- | ------------------------------- |
+| BorgBackup    | Dedup backup repo      | Linux/macOS (Windows via WSL) | Yes                 | Efficient, but single-host repo |
+| Restic        | Dedup backup repo      | Linux/macOS/Win               | Yes                 | Supports multi-host repo, easy  |
+| Duplicity     | Encrypted (rsync-like) | All                           | Yes                 | Good for cloud targets          |
+| Arq           | Proprietary (GUI/CLI)  | All                           | Yes                 | User-friendly GUI, costs        |
+| Rclone (copy) | File sync to cloud     | All                           | Yes (if configured) | Syncs to AWS/S3/etc             |
 
 Choose based on platform and team skill. For cross-device syncing of config (not backups), also consider tools like Syncthing or Dropbox for the agent directories, but never sync the raw `.env` unencrypted.
 
