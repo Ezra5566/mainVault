@@ -21,7 +21,7 @@ This is your primary knowledge vault organized using the PARA method:
 - [[07-Cybersecurity|🔒 Cybersecurity]]
 - [[08-Daily|📅 Daily Notes]]
 - [[09-Knowledge|💡 Knowledge & Interdisciplinary]]
-- 🇨🇳[[chinese]]
+- 🇨🇳[[HSK1-Basics]]
 
 ## Daily Actions
 ### Morning Routine
@@ -68,10 +68,12 @@ flowchart LR
   - Professional Development
   - Financial Management
 - **Learning Topics:**
+  - [[Generative AI - Map of Content]] ← AI/ML cluster hub (start here)
+  - [[AI Engineering]] · [[Prompt Engineering]] · [[Python for AI]]
   - [[05-AI-Research/AI Fundamentals]]
   - [[06-Math/Mathematics for ML]]
   - [[09-Knowledge/Interdisciplinary Connections]]
-  - [[HSK 1 Sentences]]
+  - [[HSK1-Basics]]
 
 ## Vault Statistics
 *Note: Update these periodically*

@@ -72,7 +72,7 @@ Consider tracking leading indicators for each area:
 ## Related Notes
 - [[00-Inbox/Inbox Guidelines]]
 - [[Project Management Template]]
-- [[03-Resources/Knowledge Management]]
+- [[03-Resources/Knowledge Management System]]
 - [[04-Archive/Archive Principles]]
 
 ---

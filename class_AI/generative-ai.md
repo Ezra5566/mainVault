@@ -30,3 +30,7 @@ Generative AI refers to models that can create new content—such as text, image
 
 **Takeaway**  
 Generative AI is reshaping how we interact with technology, turning tools into collaborators that can ideate, design, and produce content autonomously.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

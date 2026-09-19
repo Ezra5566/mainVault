@@ -35,4 +35,4 @@
 - Teacher or peer feedback
 
 ---## Related Links
-- [[chinese]]
+- [[HSK1-Basics]]

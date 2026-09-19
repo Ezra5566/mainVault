@@ -95,3 +95,7 @@
 | 7 | Publish a blog post describing a project’s end‑to‑end pipeline | Medium, Dev.to |
 
 > **Tip:** Encourage students to treat each course project as a mini‑product: version‑controlled, containerized, documented, and deployable. This mindset bridges the gap between academic grades and industry expectations.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

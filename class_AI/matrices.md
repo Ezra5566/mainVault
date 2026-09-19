@@ -39,3 +39,7 @@ week: 2
 3. Find the transpose of \(\begin{bmatrix}1 & 2 & 3\end{bmatrix}\) (row vector).  
 
 ---
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

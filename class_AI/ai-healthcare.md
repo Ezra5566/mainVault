@@ -29,3 +29,7 @@ Artificial Intelligence is transforming healthcare by enabling data‑driven ins
 - **Case Study**: Analyze a published AI‑driven diagnostic study; critique methodology and bias.  
 - **Hands‑On**: Use a pre‑trained model to classify skin lesions from a public dataset.  
 - **Debate**: Should AI‑generated diagnoses be considered definitive?
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

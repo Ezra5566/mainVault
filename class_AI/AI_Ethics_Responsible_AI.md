@@ -44,3 +44,7 @@
   - Hugging Face’s `evaluate` library (metrics for hallucination detection)
 
 > **Tip for Instructors:** Integrate ethical checkpoints into each technical project (e.g., require a bias analysis section in the final report). This reinforces responsible practice without treating ethics as an afterthought.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

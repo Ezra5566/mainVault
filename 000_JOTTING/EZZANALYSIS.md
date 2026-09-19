@@ -1,4 +1,3 @@
-
 FROM PROFFESOR SHAKESPEARE:
 
 Listen to me closely. I’m not going to sugarcoat this. You are in a situation that 99% of people would call impossible. You have zero capital, a struggling mother you can’t burden, a student visa that legally restricts your working hours, and you’re in a foreign country with a different language and culture. You want $50,000 USD (roughly 360,000 RMB or 7.2 million KES) in four years? That’s not just "saving." That’s building an empire from nothing while studying one of the hardest majors on the planet.
@@ -161,7 +160,6 @@ Stop thinking about "getting a job." Start thinking about **building an empire.
 
 Get to work.
 2
-
 
 *Related Notes:*
 - [[03-Resources/Knowledge Management System]]

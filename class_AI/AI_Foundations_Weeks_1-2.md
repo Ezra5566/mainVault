@@ -20,4 +20,7 @@
 ## Activities
 - Students identify AI they already use daily
 - Case‑study discussions
-</details>
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

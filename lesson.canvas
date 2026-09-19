@@ -4,9 +4,9 @@
 		{"id":"5ddd954cb999a063","type":"text","text":"giving the computer instructions ! ","x":-20,"y":-186,"width":250,"height":60,"color":"2"},
 		{"id":"69cc6462bb2f5fb8","type":"text","text":"language {\n1. python (SIMPLEST) \n2. cpp \n3. java\n4. sql\n5. rust\n6. kotlin\n7. swift\n8. php\n}","x":302,"y":-4,"width":258,"height":284},
 		{"id":"2f57fdecc57417f3","type":"text","text":"RESULT","x":620,"y":-360,"width":250,"height":60},
-		{"id":"22cd50616c06a9d4","type":"text","text":"ABOUT\n1. made Guido Van Rossum\n2. fast\n3. used libraries\n4. \n","x":842,"y":91,"width":438,"height":129,"color":"1"},
-		{"id":"93512f64e3b16805","x":1271,"y":-324,"width":269,"height":204,"type":"text","text":"DATATYPES\n1. sets\n2. lists\n3. tuples\n4. dictionaries\n"},
-		{"id":"356925c0a7bdbf3b","x":839,"y":-140,"width":222,"height":185,"color":"1","type":"text","text":"PYTHON SYNTAX\n1. DATATYPES \n2. MODULES \n3. VARIABLES\n4. MATH SETS\n5. QUOTATIONS"}
+		{"id":"22cd50616c06a9d4","type":"text","text":"ABOUT\n1. made Guido Van Rossum\n2. fast\n3. used libraries\n4. \n","x":842,"y":91,"width":438,"height":209,"color":"1"},
+		{"id":"93512f64e3b16805","type":"text","text":"DATATYPES\n1. sets\n2. lists\n3. tuples\n4. dictionaries\n","x":1271,"y":-324,"width":269,"height":204},
+		{"id":"356925c0a7bdbf3b","type":"text","text":"PYTHON SYNTAX\n1. DATATYPES \n2. MODULES \n3. VARIABLES\n4. MATH SETS\n5. QUOTATIONS","x":839,"y":-140,"width":222,"height":185,"color":"1"}
 	],
 	"edges":[
 		{"id":"6775a95f4c4ab998","fromNode":"5dd95af0745ea541","fromSide":"right","toNode":"5ddd954cb999a063","toSide":"left"},

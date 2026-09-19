@@ -30,3 +30,7 @@ Artificial Intelligence is transforming manufacturing by enabling smarter produc
 1. **Case Study** – Analyze a published study on AI‑based predictive maintenance for wind turbines; discuss methodology and ROI.  
 2. **Simulation Lab** – Use a simple reinforcement‑learning environment (e.g., OpenAI Gym) to optimize a mock production line’s parameters.  
 3. **Debate** – “Should AI-driven decisions in safety‑critical manufacturing be approved without human oversight?” – prepare arguments focusing on safety, accountability, and efficiency.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

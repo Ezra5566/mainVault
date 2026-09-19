@@ -64,3 +64,7 @@ week: 2
 3. Apply the chain rule to *h(x) = sin(x²)*. What is *h′(x)*?  
 
 ---
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

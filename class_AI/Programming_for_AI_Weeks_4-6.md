@@ -37,3 +37,7 @@
   - Summarize findings in a short notebook
 
 > **Tip:** Encourage students to use virtual environments (`venv` or `conda`) to manage package dependencies.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

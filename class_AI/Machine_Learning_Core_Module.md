@@ -37,3 +37,7 @@
    - Tasks: Data loading pipelines, CNN basics (introduced later), model assessment
 
 > **Hands‑on Guidance:** Emphasize iterative development—data preprocessing → baseline model → refinement → result analysis.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

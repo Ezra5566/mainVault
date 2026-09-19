@@ -31,3 +31,7 @@
 - **Hands‑on exercises** – simple Python notebooks demonstrating matrix multiplication, gradient computation, and basic statistical inference.
 
 > **Tip for International Students:** Provide quick‑reference cheat sheets for linear algebra and calculus formulas to bridge any gaps in prior math exposure.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

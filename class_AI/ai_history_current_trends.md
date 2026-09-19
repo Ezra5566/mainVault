@@ -35,3 +35,7 @@ week: 1
 3. **Lifelong Learning** – The field moves quickly; skills in model adaptation, evaluation, and ethical oversight are as crucial as technical mastery.  
 
 --- 
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

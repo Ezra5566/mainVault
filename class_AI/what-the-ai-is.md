@@ -20,3 +20,7 @@ Artificial Intelligence (AI) refers to systems that can perform tasks that typic
 - Spam filters, traffic‑pattern predictions  
 
 This foundational view sets the stage for differentiating narrow AI, general AI, and generative AI in later sections.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

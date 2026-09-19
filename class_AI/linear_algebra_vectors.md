@@ -35,3 +35,7 @@ week: 2
 3. Determine whether **d** = [1, 2]ᵀ and **e** = [‑2, 1]ᵀ are orthogonal.
 
 ---
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

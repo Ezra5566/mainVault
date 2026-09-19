@@ -677,19 +677,19 @@ main (production) ← develop ← feature branches
 
 ## 🎓 PAGES TO ADD (That You Might Miss)
 
-| Page | Category | When | Why |
-|------|----------|------|-----|
-| **FAQ** | Public | Phase 1 | For new user onboarding |
-| **Help/Support** | Shared | Phase 2 | Reduce support load |
-| **Announcements Feed** | Shared | Phase 2 | University-wide news |
-| **Student Directory** | Student | Phase 2 | Find classmates |
-| **Grade Tracker** | Student | Phase 3 | Track performance |
-| **Course Feedback** | Student | Phase 3 | Rate courses/teachers |
-| **Attendance Portal** | Teacher | Phase 2 | Track class attendance |
-| **Grade Management** | Teacher | Phase 3 | Upload grades |
-| **Bulk User Import** | Admin | Phase 1 | CSV upload for enrollment |
-| **System Logs** | Admin | Phase 2 | Audit trail |
-| **File Quota Management** | Admin | Phase 2 | Prevent abuse |
+| Page                      | Category | When    | Why                       |
+| ------------------------- | -------- | ------- | ------------------------- |
+| **FAQ**                   | Public   | Phase 1 | For new user onboarding   |
+| **Help/Support**          | Shared   | Phase 2 | Reduce support load       |
+| **Announcements Feed**    | Shared   | Phase 2 | University-wide news      |
+| **Student Directory**     | Student  | Phase 2 | Find classmates           |
+| **Grade Tracker**         | Student  | Phase 3 | Track performance         |
+| **Course Feedback**       | Student  | Phase 3 | Rate courses/teachers     |
+| **Attendance Portal**     | Teacher  | Phase 2 | Track class attendance    |
+| **Grade Management**      | Teacher  | Phase 3 | Upload grades             |
+| **Bulk User Import**      | Admin    | Phase 1 | CSV upload for enrollment |
+| **System Logs**           | Admin    | Phase 2 | Audit trail               |
+| **File Quota Management** | Admin    | Phase 2 | Prevent abuse             |
 
 ---
 
@@ -723,4 +723,4 @@ main (production) ← develop ← feature branches
 4. Do teachers need to grade assignments through the platform?
 5. Should students be able to communicate with each other?
 
-Good luck with the project! 🚀
+Good luck with the project (to me)! 🚀

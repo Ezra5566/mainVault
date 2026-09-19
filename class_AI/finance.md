@@ -30,3 +30,7 @@ Artificial Intelligence is reshaping the financial industry by enabling data‑d
 - **Case Study** – Analyze a published AI‑driven fraud detection system and evaluate its performance metrics.  
 - **Hands‑On Simulation** – Build a simple credit‑scoring model using synthetic data and evaluate ROC‑AUC.  
 - **Debate** – Discuss whether AI‑generated credit scores should be disclosed to applicants.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

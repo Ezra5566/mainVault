@@ -35,3 +35,7 @@
    - Evaluate with perplexity and human interaction
 
 > **Tip:** Emphasize experimenting with hyperparameters (learning rate, batch size) and visualizing training curves.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

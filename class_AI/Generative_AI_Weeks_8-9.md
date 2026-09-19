@@ -64,3 +64,7 @@
    - Documentation: data sources, embedding index size, inference cost estimate.
 
 > **Tip:** Keep the model size modest (<10 B parameters) to stay within typical university GPU budgets. Use quantization (e.g., 4‑bit) if needed.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

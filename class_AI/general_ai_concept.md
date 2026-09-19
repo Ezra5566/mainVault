@@ -22,3 +22,7 @@ General AI (also called Strong AI or AGI – Artificial General Intelligence) re
 
 **Key Takeaway**  
 General AI remains aspirational; understanding its promise and peril helps students critically assess AI claims in media and industry.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.

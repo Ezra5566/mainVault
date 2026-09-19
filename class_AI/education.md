@@ -33,3 +33,7 @@ Artificial Intelligence is reshaping learning environments by providing personal
 1. **Case Study:** Explore a real‑world adaptive learning platform (e.g., Duolingo, Coursera’s AI‑driven pathways). Critically evaluate its impact on learning outcomes.  
 2. **Hands‑On Lab:** Build a simple rule‑based tutor that provides feedback on a multiple‑choice quiz.  
 3. **Debate:** “Should AI replace human teachers for introductory courses?” – Prepare arguments focusing on pedagogical effectiveness and ethical implications.
+
+---
+
+> **Cluster hub:** see [[Generative AI - Map of Content]] for the full AI/ML map of content and study path.
