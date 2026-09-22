@@ -22,7 +22,7 @@
 		{"id":"c051","type":"file","file":"class_AI/Industry_Skills_Resume_Portfolio.md","x":4240,"y":185,"width":420,"height":370},
 		{"id":"c038","type":"file","file":"05-AI-Research/Deep Dives/AI Engineering.md","x":2800,"y":-60,"width":880,"height":350},
 		{"id":"c037","type":"file","file":"05-AI-Research/Deep Dives/Prompt Engineering.md","x":1780,"y":30,"width":740,"height":340},
-		{"id":"c027","type":"file","file":"class_AI/matrices.md","x":220,"y":240,"width":720,"height":315},
+		{"id":"c027","type":"file","file":"class_AI/matrices.md","x":220,"y":240,"width":780,"height":440},
 		{"id":"c040","type":"file","file":"05-AI-Research/AI Fundamentals.md","x":220,"y":763,"width":720,"height":317},
 		{"id":"c048","type":"file","file":"000_JOTTING/AI Engineer Roadmap.md","x":1000,"y":1334,"width":780,"height":386},
 		{"id":"c043","type":"file","file":"class_AI/Programming_for_AI_Weeks_4-6.md","x":1880,"y":-520,"width":680,"height":370},
