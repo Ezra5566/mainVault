@@ -3,8 +3,8 @@
 ## Date: {{date}}
 
 ### Weather/Mood
-- Weather: 
-- Mood: 
+- Weather: mid
+- Mood: dull
 - Energy Level: [🔋🔋🔋🔋🔋] (1-5)
 
 ## Today's Focus
@@ -103,8 +103,8 @@
 
 ## Evening Review
 - Sleep time: 
-- Sleep quality: [😴😴😴😴😴] (1-5)
-- One word to describe today: 
+- Sleep quality: [😴] (1-5)
+- One word to describe today: late
 
 ## Links & References
 - [[Weekly Review Template]]

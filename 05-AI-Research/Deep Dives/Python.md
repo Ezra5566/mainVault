@@ -18,15 +18,15 @@ status: reference
 
 **Jump‑to‑section (the map):**
 
-| § | Topic | § | Topic | § | Topic |
-|---|---|---|---|---|---|
-| 1 | Values, types, operators | 8 | Classes & OOP | 15 | Concurrency |
-| 2 | Control flow | 9 | Modules & packages | 16 | stdlib use cases |
-| 3 | Data structures | 10 | Errors | 17 | Gotchas |
-| 4 | Functions | 11 | Files & IO | 18 | Self‑test |
-| 5 | Comprehensions | 12 | Lambdas & functools | | |
-| 6 | Iterators / generators | 13 | Type hints | | |
-| 7 | Strings & f‑strings | 14 | Decorators & context | | |
+| §   | Topic                    | §   | Topic                | §   | Topic            |
+| --- | ------------------------ | --- | -------------------- | --- | ---------------- |
+| 1   | Values, types, operators | 8   | Classes & OOP        | 15  | Concurrency      |
+| 2   | Control flow             | 9   | Modules & packages   | 16  | stdlib use cases |
+| 3   | Data structures          | 10  | Errors               | 17  | Gotchas          |
+| 4   | Functions                | 11  | Files & IO           | 18  | Self‑test        |
+| 5   | Comprehensions           | 12  | Lambdas & functools  |     |                  |
+| 6   | Iterators / generators   | 13  | Type hints           |     |                  |
+| 7   | Strings & f‑strings      | 14  | Decorators & context |     |                  |
 
 ---
 
