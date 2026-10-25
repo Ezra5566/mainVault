@@ -13,7 +13,7 @@
 		{"id":"c020","type":"text","text":"**What you must know (ML)**\n• 3 families: **supervised · unsupervised · RL**\n• Core algos: linear/logistic, trees/forests, k‑means, SVM\n• **Metrics**: accuracy, precision/recall, F1, ROC‑AUC\n• Train/val/test split + the data caveats\n• The math underneath: **stats + linear algebra**\n• Feature engineering > model cleverness","x":430,"y":-1430,"width":380,"height":320,"color":"4"},
 		{"id":"c024","type":"file","file":"class_AI/Mathematics_for_AI_Weeks_2-4.md","x":1150,"y":-1040,"width":570,"height":280},
 		{"id":"c022","type":"file","file":"class_AI/Machine_Learning_Core_Module.md","x":1150,"y":-1460,"width":570,"height":300},
-		{"id":"c032","type":"file","file":"class_AI/Deep_Learning_Weeks_6-8.md","x":3120,"y":-1110,"width":420,"height":60},
+		{"id":"c032","type":"file","file":"class_AI/Deep_Learning_Weeks_6-8.md","x":3120,"y":-1110,"width":700,"height":350},
 		{"id":"c034","type":"file","file":"class_AI/Generative_AI_Weeks_8-9.md","x":-1850,"y":-90,"width":570,"height":290},
 		{"id":"c046","type":"file","file":"05-AI-Research/Deep Dives/Python.md","x":-520,"y":1289,"width":420,"height":303},
 		{"id":"c041","type":"text","text":"**🛠 The Developer / Major layer (what actually gets you hired)**\nPython + the ML stack · **MLOps** (data→model→API, monitor, retrain) · System design & cost/latency trade‑offs · Evaluation before claims · Reproducibility (seed + versioned data + locked deps) · Portfolio & résumé.","x":-240,"y":-40,"width":1750,"height":160,"color":"5"},

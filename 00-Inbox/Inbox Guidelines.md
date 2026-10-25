@@ -16,7 +16,7 @@ The inbox is a temporary holding area for new ideas, tasks, and information that
 - Link to related notes using [[wiki-style links]]
 
 ## Example Entries
-- [ ] Read article on spaced repetition
+- [x] Read article on spaced repetition
 - !! Idea for new project: AI flashcard generator
 - Meeting notes from team sync
 

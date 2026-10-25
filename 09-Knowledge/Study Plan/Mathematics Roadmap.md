@@ -18,6 +18,16 @@
 5. Finish Probability and Statistics fundamentals (9‑12 months)
 6. Participate in math seminars, workshops, or a research project (12 months+)
 
+## Discrete Mathematics Track (parallel to the continuous one)
+- **Start here:** [[Discrete Mathematics - Map of Content]] — the hub for the whole unit.
+- **Sequencing** (each is one detailed note in `06-Math/Discrete/`):
+  1. [[Logic & Proof Techniques]] — the reasoning engine (propositions, predicates, the five proof techniques, induction).
+  2. [[Sets, Relations & Functions]] — the basic objects (cardinality, equivalence relations, partial orders).
+  3. [[Combinatorics & Counting]] — exact counting (permutations, pigeonhole, inclusion–exclusion, binomial, generating functions).
+  4. [[Number Theory & Recurrence Relations]] — divisibility, the Euclidean algorithm, modular arithmetic (CRT), and solving recurrences.
+  5. [[Graph Theory]] — connectivity, trees, Euler/Hamilton, coloring, planarity, shortest paths.
+- **Why it's here:** discrete math is the foundation of computer science and of most AI/CS proof work. It runs **alongside** the calculus/linear-algebra track above, not after it. Add a 45-min discrete session each week (mirrors the learning-methods cadence below).
+
 ## Recommended Resources
 - Textbooks: *Calculus* (Stewart), *Linear Algebra Done Right* (Axler), *Probability and Statistics* (DeGroot & Schervish)
 - Online Platforms: Khan Academy, MIT OpenCourseWare, 3Blue1Brown (YouTube)
