@@ -7,7 +7,7 @@ updated: 2026
 status: reference
 ---
 
-# Python — Complete Syntax & Use-Case Reference
+# Python — Complete Syntax & Use-Case Reference ezzz lesgo
 
 > [!abstract] What this note is
 > A single, self-contained reference for **Python syntax and the stdlib use cases you actually hit**. Every block is runnable and was syntax‑checked. Read top‑to‑bottom to learn, or jump to the section table below to use it as a lookup while coding.
